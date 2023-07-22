@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+center {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin:0 auto;
+    padding:0 2%;
+}
+
+header{
+    padding: 20px 0;
+}
+
+
+img {
+    padding: 1px 0px 0px 0px;
+    margin-top: -6%;
+    width: 20%;
+}
+
+ul {
+    padding-top: 50px;
+    width: 120%;
+    text-align: right;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+ul {
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: -12%;
+    align-items: center;
+    display: flex;
+}
+
